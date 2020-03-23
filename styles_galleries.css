@@ -1,0 +1,39 @@
+div.row:hover {
+  border: 1px solid white;
+}
+
+div.row img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+  color:white;
+  background-color:black;
+  width:270px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.row {
+  margin: 0px;
+  padding: 0px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 270px;
+  height: auto;
+}
+
+body{
+  background: url("bwNamor.jpg") no-repeat center fixed;
+  background-size:cover;
+}
+
+
+
+
+
+

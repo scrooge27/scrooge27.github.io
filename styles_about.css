@@ -1,0 +1,58 @@
+.carousel-caption{
+	background-color:black;
+}
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(100%);
+}
+.tales {
+  width: 100%;
+}
+.carousel-inner{
+  width:1125px !important;
+  height:400px !important;
+  vertical-align: middle;
+ }*/
+
+
+ .row{
+ 	text-align: center;
+ }
+ .col-sm{
+ 	margin-top:10px;
+ }
+.carousel-indicators li{
+ 	background-color: #000;
+ }
+ h5{
+ 	text-align:center;
+ }
+ div.form-row:hover {
+  border: 1px solid white;
+  border-radius: 150px;
+}
+.about{
+	margin-top:50px;
+	margin-bottom:30px;
+	text-align: center;
+}
+.contact{
+	margin-left: 3px;
+	margin-right: 3px;
+}
+
+.carousel-caption {
+      height:100px;
+      max-width: 720px;
+      margin:0 auto;
+      text-align:center;
+      background-color:#0E0000; 
+}
+
+
+
+
+
+
+
+
